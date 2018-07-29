@@ -1,13 +1,9 @@
 body {
-	background-color: 34495e
+	font-family: 
 }
 
 ::-webkit-scrollbar {
 	display: none
-}
-
-.all-elements {
-	overflow-x: hidden
 }
 
 .page-content {
@@ -15,7 +11,7 @@ body {
 	z-index: 10;
 	display: block;
 	position: relative;
-	min-height: 100%
+	min-height: 100%;
 }
 
 .page-sidebar {
@@ -52,7 +48,7 @@ body {
 
 .sidebar-section em {
 	font-family: raleway, sans-serif;
-	font-size: 14px;
+	font-size: 15px;
 	color: #fff;
 	text-align: right;
 	font-style: normal;
@@ -61,18 +57,6 @@ body {
 	padding-right: 20px;
 	font-weight: 200;
 	line-height: 50px
-}
-
-.sidebar-close {
-	background-image: url(../images/misc/sidebar-close.png);
-	background-repeat: no-repeat;
-	background-position: 20px 20px;
-	width: 50px;
-	height: 50px;
-	background-size: 10px 10px;
-	position: absolute;
-	top: 0;
-	left: 0
 }
 
 
@@ -102,36 +86,6 @@ body {
 
 .active-submenu {
 	display: block
-}
-
-.nav-item-submenu a {
-	background-image: url(../images/misc/sidebar-arrow.png);
-	background-size: 13px 13px;
-	background-position: right;
-	background-repeat: no-repeat;
-	padding-left: 30px;
-	font-size: 12px
-}
-
-.active-subnav {
-	background-image: url(../images/misc/sidebar-active.png)!important;
-	background-size: 13px 13px;
-	background-position: right;
-	background-repeat: no-repeat
-}
-
-.nav-regular {
-	background-image: url(../images/misc/sidebar-arrow.png);
-	background-size: 13px 13px;
-	background-position: right;
-	background-repeat: no-repeat
-}
-
-.active-nav {
-	background-image: url(../images/misc/sidebar-active.png);
-	background-size: 13px 13px;
-	background-position: right;
-	background-repeat: no-repeat
 }
 
 .dropdown-nav {

@@ -57,30 +57,6 @@
                 <div class="content-header">
                     <a href="#" class="content-logo"></a>
                 </div>
-                <div class="container">
-                    <div class="slider-controls" data-snap-ignore="true">
-                        <div>
-                            <img src="images/general-nature/3.jpg" class="responsive-image" alt="img">
-                            <p class="title-slider-caption">
-                                <strong>Welcome</strong>
-                                <em>We make your mobile and tablet rock!</em>
-                            </p>
-                        </div>
-                        <div>
-                            <img src="images/general-nature/2.jpg" class="responsive-image" alt="img">
-                            <p class="small-slider-caption">A small caption</p>
-                        </div>
-                        <div>
-                            <img src="images/general-nature/1.jpg" class="responsive-image" alt="img">
-                            <p class="title-slider-caption">
-                                <strong>A caption title</strong>
-                                <em>A caption text and what not!</em>
-                            </p>
-                        </div>
-                    </div>
-                    <a href="#" class="next-slider"></a>
-                    <a href="#" class="prev-slider"></a>
-                </div>
                 <div class="decoration"></div>
                 <div class="container no-bottom">
                     <h4>Welcome</h4>
